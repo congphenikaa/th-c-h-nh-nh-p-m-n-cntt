@@ -1,4 +1,4 @@
-# th-c-h-nh-nh-p-m-n-cntt
+# thuc_hanh_nhap_mon_cntt
 Phần 1 - Cấu hình Git
 Lệnh để cấu hình Git:
 git config --global user.name "Name"
